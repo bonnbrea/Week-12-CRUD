@@ -1,0 +1,43 @@
+table 
+        {
+            width: 100%;
+        }
+        table, th, td 
+        {
+            border: solid 1px #050000;
+            border-collapse: collapse;
+            padding: 2px 3px;
+            text-align: center;
+        }
+      
+        input[type='button'] 
+        {
+            font: 15px Calibri;
+            cursor: pointer;
+            border: none;
+            color: #000000;
+            
+        }
+        
+        input[type='text'], select 
+        {
+            font: 17px Calibri;
+            text-align: center;
+            border: solid 1px #CCC;
+            width: auto;
+            padding: 2px 3px;
+            background-color: rgba(243, 183, 193, 0.608);
+        }
+
+h1 {
+  border-style: double;
+  justify-content: center;
+  text-align: center;
+  width: 500px;
+  margin: auto;
+  display: flex;
+  background-color: rgb(255, 255, 164)
+  
+}
+
+
